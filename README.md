@@ -396,7 +396,7 @@ Squeak: “I like drunk people because when I go crazy, we speak the same langua
 Beak: “What’s more important, the journey, or the destination?”
 Squeak: “The company.”
  ---
-Beak: “Don’t forget to go home.”
+Beak: “~~Don’t~~ forget to go home.”
  ---
 Squeak: “Yeah never shit where you eat… but what if the kitchen is really hot and single?”
  ---
@@ -610,7 +610,7 @@ Squeak: “So you're open but closed?”
  ---
 Squeak: “Did you get all the messages I wanted to send you?”
  ---
-Beak: “See it. Say it. Sorted. Mind your business!”
+Beak: “~~See it. Say it. Sorted.~~ Mind your business!”
  ---
 Squeak: “If you really wanted to you would. Except I really want to but I can’t.”
  ---
