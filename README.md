@@ -1,10 +1,10 @@
-# Beak & Squeak — Official Archive
+# Beak & Squeak — Archive
 
-Beak & Squeak is an ongoing cartoon/street art project.
+Beak and Squeak is a cartoon/street art project.
 
-This is the official chronological archive of Beak & Squeak. The archive is maintained and updated as new work is created.
+This is the complete archive of every Beak & Squeak and is updated regularly.
 
-**Official Instagram:** [@beakandsqueak](https://www.instagram.com/beakandsqueak/)
+**Instagram:** [@beakandsqueak](https://www.instagram.com/beakandsqueak/)
 
 ## Published Articles and Interviews
 
@@ -15,7 +15,7 @@ This is the official chronological archive of Beak & Squeak. The archive is main
 
 ---
 
-# All beakandsqueaks in chronological order. Complete Archive
+# All beakandsqueaks in chronological order:
 
 Squeak: “I don’t know what I’m doing.”
 Beak: “I know. That’s what makes you interesting.”
