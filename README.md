@@ -2,7 +2,7 @@
 
 Beak and Squeak is a cartoon/street art project.
 
-This is the complete archive of every Beak & Squeak and is updated regularly.
+This is a complete written archive of every Beak & Squeak. I'll update it regularly.
 
 **Instagram:** [@beakandsqueak](https://www.instagram.com/beakandsqueak/)
 
