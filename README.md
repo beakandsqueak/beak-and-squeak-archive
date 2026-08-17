@@ -695,6 +695,8 @@ Beak: “Find good timing first.”
  ---
 Beak: “Everyone is replaceable except for the worst person I’ve ever met.”
  ---
+Squeak: “My attention is really limited. That’s how I know who I like.” 
+ ---
 Beak: “I don’t have to lie. If they like me, they’ll lie to themselves.”
  ---
 Beak: “I have the same script for everyone.”
@@ -709,8 +711,19 @@ Squeak: “I know nobody cares what I do. I just wish my brain knew that too.”
 Beak: “Nothing matters. So what’s the point?”
 Squeak: “We can do whatever we want. Nothing matters!”
  ---
+Beak: “I hear what I want to believe in every story.”
+ ---
 Squeak: “How do I learn to be normal? Everybody else is trying to be special.”
+ ---
+Beak: “Common sense is just what I call my opinions when I want to win an argument.”
  ---
 Squeak: “What if I can’t win?”
 Beak: “Then don’t lose.”
+ ---
+Squeak: “I want to know you before I lose what I don’t know about you yet.”
+ ---
+Beak: “Empty relationships keep me busy but leave me empty.”
+ ---
+Beak: “A home needs roots.”
+Squeak: “Maybe home is when somebody notices when we’re gone.”
  ---
