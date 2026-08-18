@@ -725,5 +725,5 @@ Squeak: “I want to know you before I lose what I don’t know about you yet.�
 Beak: “Empty relationships keep me busy but leave me empty.”
  ---
 Beak: “A home needs roots.”
-Squeak: “Maybe home is when somebody notices when we’re gone.”
+Squeak: “Maybe home is when somebody notices if we’re gone.”
  ---
