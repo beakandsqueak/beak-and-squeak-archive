@@ -1,26 +1,14 @@
+---
+layout: default
+---
 <!DOCTYPE html>
 <html>
 <head>
     <meta name="google-site-verification" content="wkM--WEPmY6AtixiIjO2UvKTZeh7OWanssIomfkNL_U" />
     <title>Beak and Squeak Archive</title>
-    <script src="https://jsdelivr.net"></script>
 </head>
 <body>
-    <div id="content">Loading archive...</div>
-    <script>
-        // Adding {mode: 'cors'} allows the script to legally read the file layout
-        fetch('README.md', {mode: 'cors'})
-            .then(response => {
-                if (!response.ok) throw new Error('File not found');
-                return response.text();
-            })
-            .then(text => {
-                document.getElementById('content').innerHTML = marked.parse(text);
-            })
-            .catch(err => {
-                document.getElementById('content').innerHTML = "Failed to load quotes.";
-                console.error(err);
-            });
-    </script>
+    {% capture my_markdown %}{% include_relative README.md %}{% endcapture %}
+    {{ my_markdown | markdownify }}
 </body>
 </html>
