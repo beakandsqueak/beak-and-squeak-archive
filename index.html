@@ -6,6 +6,13 @@ layout: default
 <head>
     <meta name="google-site-verification" content="wkM--WEPmY6AtixiIjO2UvKTZeh7OWanssIomfkNL_U" />
     <title>Beak and Squeak Archive</title>
+    <style>
+        /* This forces each quote onto a clean new line with perfect breathing room */
+        p {
+            margin-bottom: 24px;
+            white-space: pre-wrap;
+        }
+    </style>
 </head>
 <body>
     {% capture my_markdown %}{% include_relative README.md %}{% endcapture %}
