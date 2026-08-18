@@ -1,6 +1,3 @@
-<!---
-google-site-verification: wkM--WEPmY6AtixiIjO2UvKTZeh7OWanssIomfkNL_U
---->
 # Beak & Squeak — Archive
 
 Beak and Squeak is a cartoon/street art project.
