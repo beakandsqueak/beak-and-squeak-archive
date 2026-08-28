@@ -488,8 +488,8 @@ Beak: “If you're going to stab me in the back, do it to my face!”
  ---
 Beak: “Some people are lucky and fall in love. The unlucky ones end up stuck with their partners.”
  ---
-Squeak: "Sometimes it's brave just to admit I don't know.”
-Beak: “Most call that ignorance. I call it honesty.”
+Squeak: "Sometimes it's braver just to say I don't know.”
+Beak: “Some call that ignorance. I call it honesty.”
  ---
 Squeak: “I want to live as long as the world stays ridiculous. So, forever!”
  ---
@@ -726,4 +726,11 @@ Beak: “Empty relationships keep me busy but leave me empty.”
  ---
 Beak: “A home needs roots.”
 Squeak: “Maybe home is when somebody notices if we’re gone.”
+ ---
+Beak: “Looking for flaws is my lonely way of feeling smart.”
+ ---
+Squeak: “I tried reading the room but an elephant was in the way.”
+ ---
+Squeak: “I’m in a better place now.”
+Beak: “Yeah but you're supposed to say that.”
  ---
