@@ -11,6 +11,7 @@ This is a complete written archive of every Beak & Squeak. I'll update it regula
 - [SW Londoner - October 2025](https://www.swlondoner.co.uk/entertainment/23102025-meet-the-anonymous-street-artist-helping-londoners-make-light-of-their-complicated-emotions?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnfZQI1If8XmfyIPMMh1yEb1fCir1fS_nI29Ncer5BLDZnDmZjkEjuD8oMxoI_aem_Nhri0J6BmYN9YtrH7xXDMg)
 - [Financial Times - December 2025](https://www.ft.com/content/db398db8-5311-430d-986e-fdc7a7bd69a5?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnwYkVUDEwHYJ5liy-n-abj3sx9gyKgNLODAFOIhePlsh5_m4AlNdrjnR0VEg_aem_Y16vz4Bn_-BfD4T4w_ps0g)
 - [London Daily Digital - February 2026](https://ldd.news/london/beak-and-squeak-londons-hidden-cartoons-that-make-the-city-pause-and-smile/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGno-6Z2Rx1mZywPCk1ibTNO2fZCbxs9QXIcaujf9kWLz08FLJEAWH-JEcp5Kw_aem_QxoIHNIJ5AmzrYOebIPeVA)
+- [ARTUU - February 2026](https://www.artuu.it/vignette-cartoons-animazione-larte-del-disegno-come-nuovo-diario-emotivo)
 - [City AM - July 2026](https://www.cityam.com/who-is-scrawling-poetry-on-london-streets-and-why/)
 
 ---
