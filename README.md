@@ -735,3 +735,10 @@ Squeak: “I tried reading the room but an elephant was in the way.”
 Squeak: “I’m in a better place now.”
 Beak: “Yeah but you're supposed to say that.”
  ---
+Squeak: “I know how to fix everything, as long as I don’t actually have to.”
+ ---
+Beak: “I know I don’t deserve anything, but when I try really hard, I think I do.”
+ ---
+Beak: “Stop looking at your notes and photos.”
+Squeak: “But they’re my old friends.”
+ ---
