@@ -742,3 +742,10 @@ Beak: “I know I don’t deserve anything, but when I try really hard, I think 
 Beak: “Stop looking at your notes and photos.”
 Squeak: “But they’re my old friends.”
  ---
+Beak: "I use big words just to hide in them."
+ ---
+Squeak: "I can't care about everything when everyone says I'm caring wrong."
+ ---
+Squeak: "You used to be so exciting."
+Beak: "Yeah but then you fixed me."
+ ---
