@@ -744,7 +744,7 @@ Squeak: “But they’re my old friends.”
  ---
 Beak: "I use big words just to hide in them."
  ---
-Squeak: "I can't care about everything when everyone says I'm caring wrong."
+Squeak: "It's harder to care about the world when you say I'm doing it wrong."
  ---
 Squeak: "You used to be so exciting."
 Beak: "Yeah but then you fixed me."
