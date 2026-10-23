@@ -744,8 +744,22 @@ Squeak: “But they’re my old friends.”
  ---
 Beak: "I use big words just to hide in them."
  ---
-Squeak: "It's harder to care about the world when you say I'm doing it wrong."
+Squeak: "It's hard to care about the world when you say I'm doing it wrong."
  ---
 Squeak: "You used to be so exciting."
 Beak: "Yeah but then you fixed me."
+ ---
+Squeak: “I walk like I’m running late to get home.”
+ ---
+Beak: “Life is short but living is the longest thing I’ll ever do.”
+ ---
+Beak: “I’m going to say something stupid.”
+Squeak: “You can do anything.”
+ ---
+Beak: “My freedom versus your right to be chosen. Greedy aren’t I?”
+ ---
+Squeak: “If I can’t afford to skip your ads, then I definitely can’t buy whatever you’re selling.”
+ ---
+Squeak: “People avoid love just to skip the pain.”
+Beak: “Yeah hell is safer than heaven.”
  ---
